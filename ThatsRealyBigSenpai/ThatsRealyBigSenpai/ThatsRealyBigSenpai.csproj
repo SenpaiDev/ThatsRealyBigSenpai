@@ -31,10 +31,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\..\..\Downloads\YandereSimMarch5th\YandereSimMarch5th_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>G:\Steam\steamapps\common\The Forest\TheForest_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-UnityScript">
-      <HintPath>..\..\..\..\..\Downloads\YandereSimMarch5th\YandereSimMarch5th_Data\Managed\Assembly-UnityScript.dll</HintPath>
+      <HintPath>G:\Steam\steamapps\common\The Forest\TheForest_Data\Managed\Assembly-UnityScript.dll</HintPath>
+    </Reference>
+    <Reference Include="bolt">
+      <HintPath>G:\Steam\steamapps\common\The Forest\TheForest_Data\Managed\bolt.dll</HintPath>
+    </Reference>
+    <Reference Include="bolt.user">
+      <HintPath>G:\Steam\steamapps\common\The Forest\TheForest_Data\Managed\bolt.user.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -44,8 +50,11 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="udpkit">
+      <HintPath>G:\Steam\steamapps\common\The Forest\TheForest_Data\Managed\udpkit.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>..\..\..\..\..\Downloads\YandereSimMarch5th\YandereSimMarch5th_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>G:\Steam\steamapps\common\The Forest\TheForest_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
