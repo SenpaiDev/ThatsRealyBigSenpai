@@ -10,12 +10,14 @@ namespace ThatsRealyBigSenpai
 {
     public class Oniichan : MonoBehaviour
     {
-       void Start(){
+        void Start(){
 
         }
+
         void OnGUI(){
-
+           
         }
+
         void Update(){
 
         }
